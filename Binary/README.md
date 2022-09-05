@@ -1,12 +1,17 @@
 # Release Version
 
-Recommend Version for the new project is 1.1.1.8.<BR>
+Recommend Version for the new project is 1.1.1.9.<BR>
 AT+CIUPDATE<BR>
 An OTA URL is http://wiki.wiznet.io/download/WizFi360/O11/WizFi360_SDK.img.<BR>
 
 Recommend Version for existing project is 1.0.7.5.<BR>
 AT+CIUPDATE<BR>
 An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
+
+## Released 1.1.1.9<BR>
+ 20220905<BR>
+
+1. Modified the length of 'AT+AZSET' input parameter register ID from 64 to 128
 
 ## Released 1.1.1.8<BR>
  20220628<BR>
@@ -18,7 +23,7 @@ An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
 3. Fixed response bugs when connecting Station to WizFi360 set with SoftAP
 
 4. Modified Change topic while connecting to a broker
-	
+
 ## Released 1.1.1.7<BR>
  20210504<BR>
 
@@ -199,7 +204,6 @@ An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
 
 3.  AT+CIUPDATE<BR>
     An OTA URL is http://wizwiki.net/download/WizFi360/WizFi360_SDK.img.<BR>
-    
     If you want to update to Version 1.1.x.x, run AT+CIUPDATE="http://wizwiki.net/download/WizFi360/O11/WizFi360_SDK.img"\r\n
 
 ## Released 1.1.0.5<BR>
@@ -210,10 +214,4 @@ An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
 
 1.  AT+CIUPDATE<BR>
     An OTA URL is http://wizwiki.net/download/WizFi360/WizFi360_SDK.img.<BR>
-    
     If you want to update to Version 1.1.x.x, run AT+CIUPDATE="http://wizwiki.net/download/WizFi360/O11/WizFi360_SDK.img"\r\n
- 
- 부팅시 PB13이 low level이면 SPI Mode로 실행 됩니다.<BR>
- SPI Mode에서는 UART로 AT Command를 받지 않고 출력도 하지 않습니다.<BR>
- 
- 
