@@ -1,12 +1,17 @@
 # Release Version
 
-Recommend Version for the new project is 1.1.1.9.<BR>
+Recommend Version for the new project is 1.1.2.0.<BR>
 AT+CIUPDATE<BR>
 An OTA URL is http://wiki.wiznet.io/download/WizFi360/O11/WizFi360_SDK.img.<BR>
 
 Recommend Version for existing project is 1.0.7.5.<BR>
 AT+CIUPDATE<BR>
 An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
+
+## Released 1.1.2.0<BR>
+ 20230412<BR>
+
+1. Fixed Station mode & AP mode password related bugs caused by memory storage problem
 
 ## Released 1.1.1.9<BR>
  20220905<BR>
