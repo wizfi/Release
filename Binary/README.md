@@ -11,7 +11,7 @@ An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
 ## Released 1.1.2.0<BR>
  20230412<BR>
 
-1. Fixed Station mode & AP mode password related bugs caused by memory storage problem
+1. Fixed Station mode & AP mode password related bugs caused by memory storage defect
 
 ## Released 1.1.1.9<BR>
  20220905<BR>
