@@ -7,6 +7,16 @@ An OTA URL is http://wiki.wiznet.io/download/WizFi360/O11/WizFi360_SDK.img.<BR>
 Recommend Version for existing project is 1.0.7.5.<BR>
 AT+CIUPDATE<BR>
 An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
+## Released 1.1.1.8<BR>
+ 20220628<BR>
+
+1. Added +MQTTPUBSEND sending binary data
+	
+2. Added +MQTTQOS settings QoS configuration
+	
+3. Fixed response bugs when connecting Station to WizFi360 set with SoftAP
+	
+4. Modified Change topic while connecting to a broker
 
 ## Released 1.1.2.0<BR>
  20230412<BR>
