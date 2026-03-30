@@ -2,11 +2,11 @@
 
 Recommend Version for the new project is 1.1.2.0.<BR>
 AT+CIUPDATE<BR>
-An OTA URL is http://wiki.wiznet.io/download/WizFi360/O11/WizFi360_SDK.img.<BR>
+An OTA URL is http://docs.wiznet.io/img/products/wizfi360/download/O11/WizFi360_SDK.img.<BR>
 
 Recommend Version for existing project is 1.0.7.5.<BR>
 AT+CIUPDATE<BR>
-An OTA URL is http://wiki.wiznet.io/download/WizFi360/WizFi360_SDK.img.<BR>
+An OTA URL is http://docs.wiznet.io/img/products/wizfi360/download/WizFi360_SDK.img.<BR>
 
 ## Released 1.1.2.0<BR>
  20230412<BR>
