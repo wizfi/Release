@@ -29,6 +29,16 @@ An OTA URL is http://docs.wiznet.io/img/products/wizfi360/download/WizFi360_SDK.
 
 4. Modified Change topic while connecting to a broker
 
+## Released 1.1.1.8<BR>
+ 20220628<BR>	
+1. Added +MQTTPUBSEND: sending binary data
+
+2. Added +MQTTQOS: settings QoS configuration
+
+3. Fixed response bugs when connecting Station to WizFi360 set with SoftAP
+
+4. Modified Change topic while connecting to a broker	
+	
 ## Released 1.1.1.7<BR>
  20210504<BR>
 
